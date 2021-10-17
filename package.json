@@ -1,0 +1,23 @@
+{
+  "name": "postgresql-cube-tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "cubejs-server"
+  },
+  "template": "docker",
+  "templateVersion": "0.28.41",
+  "devDependencies": {
+    "@cubejs-backend/postgres-driver": "^0.28.41",
+    "@cubejs-backend/server": "^0.28.41"
+  },
+  "author":{
+    "name" : "Nalin Sajwan",
+    "email" : "nalin.sajwan@gmail.com",
+    "url" : "https://www.linkedin.com/in/nalinsajwan/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://github.com/NalinSajwan/postgresql-cube-tutorial.git"
+  }
+}
